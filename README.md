@@ -25,3 +25,29 @@ Date,Amount,Category,Description
 2025-06-02,800,Transport,Auto fare
 2025-06-05,1500,Entertainment,Movie + Snacks
 2025-06-06,6000,Rent,Flat rent
+
+How to Run
+Clone the repo or download finance_tracker.py
+
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install streamlit pandas matplotlib
+Run the app:
+
+bash
+Copy
+Edit
+streamlit run finance_tracker.py
+Upload your expense CSV via the web interface.
+
+🎯 Financial Health Score Logic
+💚 Healthy: Savings > 30% of income
+
+💛 Okay: Savings between 10%–30%
+
+❤️ Critical: Savings < 10%
+
+
