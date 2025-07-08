@@ -17,15 +17,6 @@ A simple and interactive Streamlit app to analyze your personal expenses, visual
 
 ---
 
-## 📁 Sample CSV Format
-
-```csv
-Date,Amount,Category,Description
-2025-06-01,1200,Food,Groceries from D-Mart
-2025-06-02,800,Transport,Auto fare
-2025-06-05,1500,Entertainment,Movie + Snacks
-2025-06-06,6000,Rent,Flat rent
-
 How to Run
 Clone the repo or download finance_tracker.py
 
@@ -49,5 +40,17 @@ Upload your expense CSV via the web interface.
 💛 Okay: Savings between 10%–30%
 
 ❤️ Critical: Savings < 10%
+
+## 📁 Sample CSV Format
+
+```csv
+Date,Amount,Category,Description
+2025-06-01,1200,Food,Groceries from D-Mart
+2025-06-02,800,Transport,Auto fare
+2025-06-05,1500,Entertainment,Movie + Snacks
+2025-06-06,6000,Rent,Flat rent
+
+
+
 
 
